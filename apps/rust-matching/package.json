@@ -1,0 +1,7 @@
+{
+  "name": "rust-matching",
+  "scripts": {
+    "dev": "cargo run",
+    "build": "cargo build --workspace"
+  }
+}
