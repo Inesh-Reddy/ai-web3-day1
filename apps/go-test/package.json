@@ -1,0 +1,7 @@
+{
+  "name": "go-test",
+  "scripts": {
+    "dev": "go run main.go",
+    "build": "go build"
+  }
+}
